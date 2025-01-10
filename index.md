@@ -10,3 +10,6 @@
 ```javascript
 vay myVar="Hello, world";
 ```
+- [ ] : Turn on GitHub Pages
+- [ ] : Outline my portfolio
+- [ ] : Introduce mysefl to the world
