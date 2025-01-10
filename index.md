@@ -6,3 +6,7 @@
 ###### So tedious 
 
 ![This Is Fine](https://miro.medium.com/v2/0*ZjYSm_q36J4KChdn)
+
+```javascript
+vay myVar="Hello, world";
+```
